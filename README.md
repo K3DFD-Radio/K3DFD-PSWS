@@ -37,5 +37,3 @@ HamSCI's research & collaboration is coordinated by Dr. Nathaniel Frissell W2NAF
 <ins>Radio Sources</ins>  
 |[WWV](https://www.nist.gov/pml/time-and-frequency-division/time-distribution/radio-station-wwv) | [CHU](https://nrc.canada.ca/en/certifications-evaluations-standards/canadas-official-time/nrc-shortwave-station-broadcasts-chu) | [WSPR](https://wspr.rocks/)  | [FST4W](https://www.wsprdaemon.org/fst4w) |
 
-### Operation & Data Connectivity
-[PSWS Operation, Control and Data Analysis](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
