@@ -12,11 +12,11 @@ This repository documents the build of a Personal Space Weather Station (PSWS) n
 
 HamSCI's research & collaboration is coordinated by Dr. Nathaniel Frissell W2NAF at the University of Scranton W3USR and supports a global network of "Citizen Science" monitors. Key partners include: TAPR [Tucson Amateur Packet Radio](https://tapr.org/) - NJIT [Center for Solar-Terrestrial Research](https://research.njit.edu/cstr/) - MIT - [Haystack Observatory](https://www.haystack.mit.edu/) - Case Western Reserve University [Case Western Reserve University](https://case.edu/) et.al.  
 
-### Building the RX888 WSPRDaemon SDR Station
-[Hardware Build](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/hardware.md)  
-[Official HamSCI System Installation & Configuration](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
-[Use of the PSWS & WSPRDaemon](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
-[Links and Information Sources](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/sources_links.md)    
+## Building the RX888 WSPRDaemon SDR Station
+1. [Hardware Build](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/hardware.md)  
+2. [Official HamSCI System Installation & Configuration](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
+3. [Use of the PSWS & WSPRDaemon](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
+4. [Links and Information Sources](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/sources_links.md)    
 
 ---
 
