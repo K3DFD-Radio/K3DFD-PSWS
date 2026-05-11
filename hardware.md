@@ -31,8 +31,7 @@ Also, attach the rubber pad to the underside of the SDR's board and the copper t
 5. Disconnect the GPS from your personal computer
 
 ### Component Layout
-In this instance the system components are mounted on a [6" x 8" x 1/16" 6061/T651 Aluminum Sheet Metal aluminum plate](https://www.amazon.com/PATIKIL-Aluminum-Protective-Rectangle-Lndustry/dp/B0DHR7TLNX?pd_rd_w=YnrUL&content-id=amzn1.sym.6bb79025-718b-4ad1-b8ec-68027fb35564&pf_rd_p=6bb79025-718b-4ad1-b8ec-68027fb35564&pf_rd_r=T4XHH2GPPG2ZPEGDFS6F&pd_rd_wg=xPK13&pd_rd_r=6daeec44-af98-4005-ae55-ffafdbc088e7&pd_rd_i=B0DHR7TLNX&ref_=pd_bap_d_grid_rp_hxwhrp_sspa_dk_bia_0_18_t&th=1) and contained in a [Zultech 9.1" x 7.3" x 3.9" Project Enclosure](https://www.amazon.com/dp/B08Y7GWKGR)
-![PXL_20260410_221232372 MP~2](https://github.com/user-attachments/assets/1a9a317c-5d46-4505-9145-090bfe5736d8)
+In this instance the system components are mounted on a [6"x8"x1/16" 6061/T651 Aluminum Sheet Metal aluminum plate](https://www.amazon.com/PATIKIL-Aluminum-Protective-Rectangle-Lndustry/dp/B0DHR7TLNX?pd_rd_w=YnrUL&content-id=amzn1.sym.6bb79025-718b-4ad1-b8ec-68027fb35564&pf_rd_p=6bb79025-718b-4ad1-b8ec-68027fb35564&pf_rd_r=T4XHH2GPPG2ZPEGDFS6F&pd_rd_wg=xPK13&pd_rd_r=6daeec44-af98-4005-ae55-ffafdbc088e7&pd_rd_i=B0DHR7TLNX&ref_=pd_bap_d_grid_rp_hxwhrp_sspa_dk_bia_0_18_t&th=1) and contained in a [Zultech 9.1"x7.3"x3.9" Project Enclosure](https://www.amazon.com/dp/B08Y7GWKGR)![PXL_20260410_221232372 MP~2](https://github.com/user-attachments/assets/1a9a317c-5d46-4505-9145-090bfe5736d8)
 
 ### Set the LBE-1420 GPS DO's clock output for 27.000Mhz
 
@@ -45,5 +44,5 @@ Connect the GPS clock's **OUTPUT 1 SMA connector** to the RX-888, then connect b
 
 
 ---
-### Next Step: Configure the [Beelink PC with Linux 24.04.n and WSPRDaemon](https://github.com/K3DFD-Radio/PHL-MER-Group-PSWS/blob/main/configuration.md)
+### Next Step: [Configure the Beelink PC with Linux 24.04.n and WSPRDaemon](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
 
