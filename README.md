@@ -36,9 +36,8 @@ The official HamSCI WSPRDaemon PSWS build instructions written by HamSCI's Emma 
 Data backhaul to HamSCI/WSPRnet  
 
 ## Step-by-Step Instructions  
-Step 1: [Ubuntu OS Installation](https://github.com/K3DFD-Radio/PHL-MER-Group-PSWS/blob/main/installation.md)  
-Step 2: [Hardware Build](https://github.com/K3DFD-Radio/PHL-MER-Group-PSWS/blob/main/hardware.md)  
-Step 3: [WSPRDaemon Configuration](https://github.com/K3DFD-Radio/PHL-MER-Group-PSWS/blob/main/configuration.md)  
-Step 4: [Data Integration with HamSCI](https://github.com/K3DFD-Radio/PHL-MER-Group-PSWS/blob/main/data.md)  
+Step 1: [Hardware Build](https://github.com/K3DFD-Radio/PHL-MER-Group-PSWS/blob/main/hardware.md) 
+Step 2: [Complete Installation](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver) 
+Step 3: [Data Integration with HamSCI](https://github.com/K3DFD-Radio/PHL-MER-Group-PSWS/blob/main/data.md)  
 Upgrades, enhancements and Quality-of-Life improvements  
 Links and Information Sources  
