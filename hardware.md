@@ -9,7 +9,7 @@ Filter-preamp: [here](https://turnislandsystems.com/wp-content/uploads/2024/10/F
 <img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/043a80f4-6c80-440a-9ddd-17a968e08e52" />  
 
 ### Component Layout
-<img width="889" height="675" alt="image" src="https://github.com/user-attachments/assets/4a2492c1-d869-4780-b1e3-4608127e056e" />
+<img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/4a2492c1-d869-4780-b1e3-4608127e056e" />
 
 
 ## Steps:
