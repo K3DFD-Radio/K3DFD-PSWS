@@ -1,6 +1,5 @@
 # Block Diagram
-<img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/0d89de1a-f79a-4a85-a04f-c33a97c39f5f" />  
-
+<img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/043a80f4-6c80-440a-9ddd-17a968e08e52" />  
 
 ### Reference and instruction manuals -
 
@@ -18,12 +17,13 @@ Remove the endplate from the RX888 MkII SDR on the side with the USB socket. As 
 
 Also, attach the rubber pad to the underside of the SDR's board and the copper tape to the exposed side of the pad. This side will face and press against the body of the SDR to improve heat transfer.   
 
-<img width="938" height="415" alt="image" src="https://github.com/user-attachments/assets/7294a112-8c9e-4b74-93a5-f1bf47e866ba" />  
+
+
 
 
 ### Configure the GPS clock output
 
-1. Visit the [Leobodnar website](http://www.leobodnar.com/shop/) and select your GPS Disciplined Oscillator model
+1. Visit the [Leo Bodnar website](http://www.leobodnar.com/shop/) and select your GPS Disciplined Oscillator model
 2. Download the configuration software for your operating system
 3. Connect the GPS to your personal computer — the LED will light up and the software will respond
 4. In the `OUT1` box, enter `27000000` and click **Set**
