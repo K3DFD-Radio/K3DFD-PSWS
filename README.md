@@ -38,6 +38,6 @@ The official HamSCI WSPRDaemon PSWS build instructions written by HamSCI's Emma 
 ## Build Instructions  
 [Hardware Build](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/hardware.md)  
 [System Installation](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
-[Use of the PSWS & WSPRDaemon](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/data.md)  
+[Use of the PSWS & WSPRDaemon](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
 Upgrades, enhancements and Quality-of-Life improvements  
 Links and Information Sources  
