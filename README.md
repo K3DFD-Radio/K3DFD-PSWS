@@ -8,15 +8,15 @@ The goal of the PSWS project is to create a geographically distributed, multi-in
 
 [WSPRDeamon](https://wsprdaemon.readthedocs.io/en/master/index.html) by Rob Robinette AI6VN, incorporating Phil Karn's [ka9q-radio](https://ka9q-radio.org) is a Linux-based service designed to operate as a reliable, autonomous appliance for amateur radio operators and researchers. Its primary function is to decode WSPR and FST4W spots from one or more Software-Defined Radios (SDRs) and reliably upload them to public databases like [wsprnet.org](https://wsprnet.org) and [wspr.rocks](https://wspr.rocks). The project emphasizes high reliability, advanced features, and scientific data collection, going beyond the capabilities of applications like WSJT-X.
 
-This project's research & collaboration is coordinated by the Dr. Nathaniel Frissell W2NAF at the University of Scranton W3USR and supports a global network of "Citizen Science" monitors. Key partners include: TAPR [Tucson Amateur Packet Radio](https://tapr.org/) - NJIT [Center for Solar-Terrestrial Research](https://research.njit.edu/cstr/) - MIT - [Haystack Observatory](https://www.haystack.mit.edu/) - Case Western Reserve University [Case Western Reserve University](https://case.edu/) et.al.
+This project's research & collaboration is coordinated by Dr. Nathaniel Frissell W2NAF at the University of Scranton W3USR and supports a global network of "Citizen Science" monitors. Key partners include: TAPR [Tucson Amateur Packet Radio](https://tapr.org/) - NJIT [Center for Solar-Terrestrial Research](https://research.njit.edu/cstr/) - MIT - [Haystack Observatory](https://www.haystack.mit.edu/) - Case Western Reserve University [Case Western Reserve University](https://case.edu/) et.al.  
 
 ### Building our RX888 WSPRDaemon SDR Station for HamSCI
-This repository documents the build of a Personal Space Weather Station (PSWS) node by located in maidenhead grid FN20lb at the QTH of [K3DFD](https://www.qrz.com/db/K3DFD) in the Fox Chase section of Philadelphia, Pa. This build will not incorporate WSPRsonde, VLF receiver or Magnetometer.  
+This repository documents the build of a Personal Space Weather Station (PSWS) node by located in maidenhead grid FN20lb at the QTH of [K3DFD](https://www.qrz.com/db/K3DFD) in the Fox Chase section of Philadelphia, Pa. This build will not incorporate WSPRsonde, VLF receiver or Magnetometer.   
 
 The official HamSCI WSPRDaemon PSWS build instructions written by HamSCI's Emma Moran, Dr. Kristina Collins, et.al. are [here:](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
 
 ### System Block Diagram
-<img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/f20a7ee4-881c-4ba0-92e2-a33dcc595e65" />
+<img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/f20a7ee4-881c-4ba0-92e2-a33dcc595e65" />  
 
 | Item | Source | Information & Support |
 |------|--------|--------|
