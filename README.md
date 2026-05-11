@@ -13,7 +13,7 @@ This project's research & collaboration is coordinated by the Dr. Nathaniel Fris
 ### Building our RX888 WSPRDaemon SDR Station for HamSCI
 This repository documents the build of a Personal Space Weather Station (PSWS) node by K3DFD. This is a cooperative project with assistance from a small subgroup of Delaware Valley Radio Association [(DVRA)](https://www.w2zq.com/) members who live in Mercer County, NJ. Note that while the participants are all DVRA members, this project is independent of the DVRA. This repository documents the PHIL-MER PSWS Group's process of building, configuring, operating and improving it's HamSCI PSWS, located in maidenhead grid FN20lb at the QTH of [K3DFD](https://www.qrz.com/db/K3DFD) in the Fox Chase section of Philadelphia, Pa. This build will not incorporate WSPRsonde, VLF receiver or Magnetometer.
 
-The official HamSCI WSPRDaemon PSWS build instructions written by Emma Moran are [here:](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)
+The official HamSCI WSPRDaemon PSWS build instructions written by HamSCI's Emma Moran, Dr. Kristina Collins, et.al. are [here:](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)
 
 ### System Block Diagram
 <img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/f20a7ee4-881c-4ba0-92e2-a33dcc595e65" />
