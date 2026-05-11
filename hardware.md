@@ -16,7 +16,7 @@ Use a 4mm drill bit to open holes in the aluminum base plateplate and use M3 scr
 
 
 ### 3D print Component Hold Downs
-You can use these .stl file to print the component hold down parts that affix the RX888, GPSDO and Filter-Preamp to the aluminum plate.
+You can use these .stl file to print the component hold down parts that affix the RX888, GPSDO and Filter-Preamp to the aluminum plate. [RX888 MkII SDR}](https://drive.google.com/file/d/11iTI1NAHCLrqhb-Ud5RXdYGEvIffmVQV/view?usp=sharing), 
 <img width="1143" height="767" alt="image" src="https://github.com/user-attachments/assets/6318063e-6c47-48c7-a323-7d009c39c269" />
 
 
