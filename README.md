@@ -15,8 +15,10 @@ This repository documents the build of a Personal Space Weather Station (PSWS) n
 
 The official HamSCI WSPRDaemon PSWS build instructions are [here:](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)
 
-### System Components
-<img width="1254" height="712" alt="PSWS drawio" src="https://github.com/user-attachments/assets/d4185718-2765-41ba-ad02-023ebcf7a1e1" />     
+### System Block Diagram
+<img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/f20a7ee4-881c-4ba0-92e2-a33dcc595e65" />
+
+
 
 | Item | Source | Drivers, Information, Support |
 |------|--------|--------|
