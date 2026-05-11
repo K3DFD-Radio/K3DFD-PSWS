@@ -1,13 +1,15 @@
 # Hardware Build
-<img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/043a80f4-6c80-440a-9ddd-17a968e08e52" />  
-
 ### Reference and instruction manuals -
 
 RX888 MkII SDR Source: [here](https://dc4ku.com/.cm4all/uproc.php/0/SDR%20-%20TEST-BERICHTE/RX888_english.pdf?cdp=a&_=1806ad658e7)  
-Clock kit and thermal Pad: [here](https://turnislandsystems.com/wp-content/uploads/2024/05/RX888-Kit-2.pdf)  
+Clock kit and thermal Pad: [here](https://turnislandsystems.com/wp-content/uploads/2024/05/RX888-Kit-2.pdf)    
 GPS Disciplined Oscillator: [here](https://github.com/simontheu/lbe-1420)  
-Filter-preamp: [here](https://turnislandsystems.com/wp-content/uploads/2024/10/Filter-Preamp-v1-rev-6.pdf)
-###
+Filter-preamp: [here](https://turnislandsystems.com/wp-content/uploads/2024/10/Filter-Preamp-v1-rev-6.pdf)  
+
+<img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/043a80f4-6c80-440a-9ddd-17a968e08e52" />  
+
+
+
 
 ## 1. Install the RX888 Clock Kit and Thermal Pad
 
@@ -16,9 +18,6 @@ Filter-preamp: [here](https://turnislandsystems.com/wp-content/uploads/2024/10/F
 Remove the endplate from the RX888 MkII SDR on the side with the USB socket. As shown below and in the above instructions, install the Clock and Thermal kit to the SDR. Exercise caution when attaching the coax's u.FL connector to the center of the board. Remove the plastic jumper to disable the internal clock and activate the Bodner GPS DO.  
 
 Also, attach the rubber pad to the underside of the SDR's board and the copper tape to the exposed side of the pad. This side will face and press against the body of the SDR to improve heat transfer.   
-
-
-
 
 
 ### Configure the GPS clock output
