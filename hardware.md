@@ -59,15 +59,14 @@ Connect the GPS clock's **OUTPUT 1 SMA connector** to the RX-888, then connect b
 > - 🔴 Red — GPS Oscillator to PC
 > - 🟢 Green — RX-888 to PC
 
-This completes the required component modifications, continue to the BeeLink PC Linux 24.04.n server and WSPRDaemon Configuration
-
-## Next Step  
+This completes the required component modifications
+  
 Install Linux Server and WSPRDaemon on the BeeLink SER Pro NUC PC  
 <img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/2f2aa991-23fe-4a95-b3bd-38fa137843d9" />
 
-## Return Here  
-
+## Next Step  
 ### [Follow the HamSCI instructions to configure the Beelink PC with Linux 24.04.n and WSPRDaemon](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
 
+## Return Here  
 
 
