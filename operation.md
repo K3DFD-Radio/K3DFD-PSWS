@@ -1,5 +1,5 @@
 ## Operation and HamSCI PSWS Community  
-[PSWS Central Control System](https://pswsnetwork.caps.ua.edu/home)  
+[PSWS Central Control System](https://pswsnetwork.eng.ua.edu)  
 [WSPRDaemon Operation - JM Lynch](https://hamsci.jmclynch.org/operation.html)  
 [WSPRDaemon Operation - Rob Robinette](https://www.wsprdaemon.org/home)  
 [WSPRDaemon Grafana](http://wd10.wsprdaemon.org:3000/login)  
