@@ -53,7 +53,12 @@ The first task is to change the internal J2 and J3 jumper settings to disable th
 <img width="452" height="582" alt="image" src="https://github.com/user-attachments/assets/2811b0fa-656c-4631-af6c-79cc22c9bde3" />  
 
 4. In the `Hz` box, enter `27000000` and click **Set Frequency** > This sets the output to **27 MHz**, which is the required clock frequency for the RX-888  
-5. Disconnect the GPS from your PC
+5. Disconnect the GPS from your PC  
+### Confirm LBE-1420 GPSDO via the `Diagnostics` button
+
+<img width="543" height="445" alt="image" src="https://github.com/user-attachments/assets/9160507b-0668-4c48-b2ff-e8ed64deb28a" />
+
+
 
 Connect the GPS clock's **OUTPUT 1 SMA connector** to the RX-888, then connect both devices to the PSWS computer via USB.
 
@@ -62,9 +67,7 @@ Connect the GPS clock's **OUTPUT 1 SMA connector** to the RX-888, then connect b
 > - 🔴 Red — GPS Oscillator to PC
 > - 🟢 Green — RX-888 to PC
 
-### Confirm LBE-1420 GPSDO via Diagnostics
 
-1. 
 
 This completes the required component modifications
   
