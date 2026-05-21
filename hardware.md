@@ -41,15 +41,18 @@ Also, attach the rubber pad to the underside of the SDR's board and the copper t
 <img width="1143" height="585" alt="image" src="https://github.com/user-attachments/assets/c923a7ea-6167-4dcb-9652-7dc2c4a7bda2" />
 
 ---
-## Assemble and Configure the DX Engineering DXE-RSEAV-1 Short Vertical Active Antenna
-The first task is to change the internal J2 and J3 jumper settings to disable the Bias-T power source feature. Move both J2 and J3 jumpers from the 1-2 position to the 2-3 position. Then the required 12VDC will be supplied to the type-F connector on the front of the antenna box.
+## Assemble and Configure the DX Engineering DXE-RSEAV-1 Short Vertical Active Antenna  
+The first task is to change the internal J2 and J3 jumper settings to disable the Bias-T power source feature. Move both J2 and J3 jumpers from the 1-2 position to the 2-3 position. Then the required 12VDC will be supplied to the type-F connector on the front of the antenna box.  
 <img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/1a676475-a87c-4fe0-bac0-027ff0272290" />
 
 ### Configure the Leo Bodnard LBE-1420 GPS clock output
 
-1. Visit the [Leo Bodnar website](http://www.leobodnar.com/shop/) and select your GPS Disciplined Oscillator model and download the configuration software for your operating system. Note: Use a different PC  than the PSWS Beelink to run the Bodnar configuration software.
-3. Connect the GPS to your PC — the LED will light up and the software will respond
-4. In the `OUT1` box, enter `27000000` and click **Set** > This sets the output to **27 MHz**, which is the required clock frequency for the RX-888
+1. Visit the [Leo Bodnar website](http://www.leobodnar.com/shop/) and select your GPS Disciplined Oscillator model and download the configuration software for your operating system. Note: Use a different PC  than the PSWS Beelink to run the Bodnar configuration software.  
+3. Connect the GPS to your PC — the LED will light up and start the configuration software  
+
+<img width="452" height="582" alt="image" src="https://github.com/user-attachments/assets/2811b0fa-656c-4631-af6c-79cc22c9bde3" />  
+
+4. In the `Hz` box, enter `27000000` and click **Set Frequency** > This sets the output to **27 MHz**, which is the required clock frequency for the RX-888  
 5. Disconnect the GPS from your PC
 
 Connect the GPS clock's **OUTPUT 1 SMA connector** to the RX-888, then connect both devices to the PSWS computer via USB.
@@ -58,6 +61,10 @@ Connect the GPS clock's **OUTPUT 1 SMA connector** to the RX-888, then connect b
 > - 🟡 Yellow — GPS Oscillator to RX-888
 > - 🔴 Red — GPS Oscillator to PC
 > - 🟢 Green — RX-888 to PC
+
+### Confirm LBE-1420 GPSDO via Diagnostics
+
+1. 
 
 This completes the required component modifications
   
