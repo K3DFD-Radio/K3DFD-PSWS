@@ -42,8 +42,13 @@ Also, attach the rubber pad to the underside of the SDR's board and the copper t
 
 ---
 ## Assemble and Configure the DX Engineering DXE-RSEAV-1 Short Vertical Active Antenna  
-The first task is to change the internal J2 and J3 jumper settings to disable the Bias-T power source feature. Move both J2 and J3 jumpers from the 1-2 position to the 2-3 position. Then the required 12VDC will be supplied to the type-F connector on the front of the antenna box.  
-<img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/1a676475-a87c-4fe0-bac0-027ff0272290" />
+1. The first task is to change the internal J2 and J3 jumper settings to disable the Bias-T power source feature. Move both J2 and J3 jumpers from the 1-2 position to the 2-3 position. Then the required 12VDC will be supplied to the type-F connector on the front of the antenna box.  
+<img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/1a676475-a87c-4fe0-bac0-027ff0272290" />  
+
+2. Modifications to the outside mounting configuration
+The antenna's physical design is lacking in sufficient protection from rain, snow or other environmental challenges. I have elected to incorporate the entire unit into a sealed ABS utility box, mounted on a 4X4 pressure-treated post. The ground rod is 1/2" common copper pipe driven into the soil to 4'. Since the Bias-T option is deselected via J2 and J3, 12VDC is provided to the lower F connector via a simple adapter to the DC source. Both the RG6 and the 12ga DC wiring are 50' long and have nominal RF loss or voltage drop.
+<img width="839" height="736" alt="image" src="https://github.com/user-attachments/assets/2500ce60-1958-4529-93b0-f18198aa8495" />
+
 
 ### Configure the Leo Bodnard LBE-1420 GPS clock output
 
