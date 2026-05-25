@@ -78,9 +78,8 @@ This completes the required component modifications
 Install Linux Server and WSPRDaemon on the BeeLink SER Pro NUC PC  
 <img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/2f2aa991-23fe-4a95-b3bd-38fa137843d9" />
 
-## Next Step  
+## Next Steps -  
 ### [Follow the HamSCI instructions to configure the Beelink PC with Linux 24.04.n and WSPRDaemon](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
-
-### [Operations](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
+### Then Return Here for: [Operations](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
 
 
