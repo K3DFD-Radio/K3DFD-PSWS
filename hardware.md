@@ -78,5 +78,6 @@ Install Linux Server and WSPRDaemon on the BeeLink SER Pro NUC PC
 ### [Follow the HamSCI instructions to configure the Beelink PC with Linux 24.04.n and WSPRDaemon](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
 
 ## Return Here  
+[Operation](
 
 
