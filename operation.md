@@ -6,6 +6,7 @@ The PSWS nodal-network is managed by Bill ENGELKE AB4EJ with servers and support
 
 [PSWS Central Control System](https://pswsnetwork.eng.ua.edu)  
 [An Atlas of HamSCI’s PSWS Doppler Spectrograms](https://hamsci.org/article/atlas-hamsci%E2%80%99s-psws-doppler-spectrograms)  
+[What does HamSCI’s Personal Space Weather Station Doppler Spectrograms show?](https://spectrogram-docs.readthedocs.io/en/latest/index.html)
 [WSPRDaemon Operation - JM Lynch](https://hamsci.jmclynch.org/operation.html)  
 [WSPRDaemon Operation - Rob Robinette](https://www.wsprdaemon.org/home)  
 [WSPRDaemon Grafana](http://wd10.wsprdaemon.org:3000/login)  
