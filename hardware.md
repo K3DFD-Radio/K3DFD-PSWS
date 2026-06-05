@@ -64,7 +64,7 @@ The antenna's physical design is lacking in sufficient protection from rain, sno
 
 
 
-Connect the GPS clock's **OUTPUT 1 SMA connector** to the RX-888, then connect both devices to the PSWS computer via USB.
+Connect the LBE-1420 GPS clock's SMA output to the RX-888 TAPR clock-modified GPS-in on the new end board, then connect both the RX888 and the LBE-1420 devices to the PSWS Beelink computer via their USB cables to a USB-3 port (blue tab).
 
 > 📷 **Receiver Setup Schematic:** The Beelink PC, RX-888 Receiver, and GPS Disciplined Oscillator are connected as follows:
 > - 🟡 Yellow — GPS Oscillator to RX-888
@@ -72,8 +72,7 @@ Connect the GPS clock's **OUTPUT 1 SMA connector** to the RX-888, then connect b
 > - 🟢 Green — RX-888 to PC
 
 
-
-This completes the required component modifications
+This completes the required component modifications  
   
 Install Linux Server and WSPRDaemon on the BeeLink SER Pro NUC PC  
 <img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/2f2aa991-23fe-4a95-b3bd-38fa137843d9" />
