@@ -11,7 +11,7 @@ If you are looking to build a PSWS, you will need to join the **HamSCI PSWS Goog
 
 <img width="945" height="920" alt="PSWS Central Control System" src="https://github.com/user-attachments/assets/0cba88dd-6d8f-47e9-a25e-20fad27157e3" />
 
-## [PSWS Central Control System](https://pswsnetwork.eng.ua.edu)**
+## [PSWS Central Control System](https://pswsnetwork.eng.ua.edu)
 
 ---
 
