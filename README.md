@@ -14,6 +14,9 @@ This repository documents the construction of a RX888 WSPRDaemon SDR Personal Sp
 
 HamSCI's research & collaboration is coordinated by Dr. Nathaniel Frissell [W2NAF](https://www.qrz.com/db/W2NAF) at the University of Scranton [W3USR](https://www.qrz.com/db/W3USR) and supports a global network of "Citizen Science" monitors. Key partners include: TAPR [Tucson Amateur Packet Radio](https://tapr.org/) - NJIT [Center for Solar-Terrestrial Research](https://research.njit.edu/cstr/) - MIT - [Haystack Observatory](https://www.haystack.mit.edu/) - Case Western Reserve University [Case Western Reserve University](https://case.edu/) et.al.  
 
+### System Block Diagram
+<img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/f20a7ee4-881c-4ba0-92e2-a33dcc595e65" />  
+
 ## Building the RX888 WSPRDaemon SDR Station
 1. [Hardware Build](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/hardware.md)  
 2. [Official HamSCI System Installation & Configuration](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
@@ -21,9 +24,6 @@ HamSCI's research & collaboration is coordinated by Dr. Nathaniel Frissell [W2NA
 4. [Links and Information Sources](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/sources_links.md)    
 
 ---
-
-### System Block Diagram
-<img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/f20a7ee4-881c-4ba0-92e2-a33dcc595e65" />  
 
 |  Item  |  Source  | Information  &  Support |
 |------|--------|--------|
@@ -36,8 +36,6 @@ HamSCI's research & collaboration is coordinated by Dr. Nathaniel Frissell [W2NA
 | RX888 SDR Cooling Fan | [Noctua NF-A4x10 FLX, Premium Quiet Fan](https://www.amazon.com/Noctua-Cooling-Blades-Bearing-NF-A4x10/dp/B009NQLT0M?pd_rd_w=gbwG0&content-id=amzn1.sym.5b28a964-6fd3-4c72-8c58-6450e7d02f5f&pf_rd_p=5b28a964-6fd3-4c72-8c58-6450e7d02f5f&pf_rd_r=0G5C06AR9745D0GVFQWF&pd_rd_wg=Msobs&pd_rd_r=c0dfe18b-ecbe-4a4c-9c6e-7b25a077237f&pd_rd_i=B009NQLT0M&psc=1&ref_=pd_basp_d_rpt_ba_s_1_t) |
 | Antenna | [DX Engineering Short Element Active Antenna DXE-RSEAV-1](https://www.dxengineering.com/parts/dxe-rseav-1) | [12VDC Linear Power Supply](https://www.jameco.com/z/DDU120100Z7972-Jameco-ReliaPro-AC-to-DC-Wall-Adapter-Transformer-12-Volt-1-Amp-12-Watt_100870.html)
 
-<ins>Radio Sources</ins>  
-|[WWV](https://www.nist.gov/pml/time-and-frequency-division/time-distribution/radio-station-wwv) | [CHU - Will go OFFLINE June 2026](https://nrc.canada.ca/en/certifications-evaluations-standards/canadas-official-time/nrc-shortwave-station-broadcasts-chu) | [WSPR](https://wspr.rocks/)  | [FST4W](https://www.wsprdaemon.org/fst4w) 
 
 ---
 ## [Next Step - Hardware Build](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/hardware.md)
