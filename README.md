@@ -8,7 +8,7 @@ The goal of the HFRx PSWS project is to create a geographically distributed, mul
 
 HamSCI's research & collaboration is coordinated by Dr. Nathaniel Frissell [W2NAF](https://www.qrz.com/db/W2NAF) at the University of Scranton [W3USR](https://www.qrz.com/db/W3USR) and supports a global network of "Citizen Science" monitors. Key partners include: TAPR [Tucson Amateur Packet Radio](https://tapr.org/) - NJIT [Center for Solar-Terrestrial Research](https://research.njit.edu/cstr/) - MIT - [Haystack Observatory](https://www.haystack.mit.edu/) - Case Western Reserve University [Case Western Reserve University](https://case.edu/) et.al.  
 
-<img width="943" height="656" alt="Screenshot 2026-09-29 092546" src="https://github.com/user-attachments/assets/ee92c2c9-fb8b-43bf-aa6e-b59e3b11b321" />
+
 
 The software that processes the Digital RF _DRF_ format information received by the RX888 SDR is [WSPRDeamon](https://wsprdaemon.readthedocs.io/en/master/index.html) by Rob Robinette [AI6VN](https://www.qrz.com/db/AI6VN); which incorporates Phil Karn's [ka9q-radio](https://ka9q-radio.org). It is a Linux-based 'daemon' service designed to operate along with the hardware as a reliable 'appliance' for Amateur Radio operators and researchers. Its primary function is to decode WSPR and FST4W and reliably upload the data to public databases like [wsprnet.org](https://wsprnet.org) and [wspr.rocks](https://wspr.rocks). The project emphasizes high reliability, advanced features, and scientific data collection that goes beyond the capabilities of applications like WSJT-X.  
 
