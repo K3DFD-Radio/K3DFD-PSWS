@@ -1,10 +1,10 @@
-## Hardware Mods, DXE Active Antenna, BeeLink PC Linux Server Install and WSPRDdaemon Configuration
+## Building an HFRx Personal Space Weather Station
 
-The actual construction style and design of the RX888 WSPRDaemon SDR PSWS is up to the builder although certain tasks are requied regardless of how the build is performed. The use of the below cabinet, layout and hardware is not required but represents the quality that was put into the K3DFD PSWS build. How you do it is of course, up to you. Regardless, the system must meet the operational performance levels to provide useful data to HamSCI.
+The construction style of an HFRx PSWS is up to the builder. However, the hardware and software must work together to insure that operational performance levels provides useful data to HamSCI.
 
-Essentially, the entire PSWS consists of: BeeLink SER Pro 7i 16-32GB 8-core NUC PC with Linux 24.04.x server and WSPRDaemon installed, a RX888 MkII 16-bit ADC Software-defined Radio that provides 30Mhz of spectrum coverage, a Leo Bodnar LBE-1420 GPS-disciplined Oscillator that drives the RX888 clock for GPS sourced timing, a Turn Island Systems (Dual) 30Mhz Filter-preamp to provide antialiasing filtering of signals above 30Mhz, and a low-noise DX Engineering RSEAV1 active vertical antenna.  
+A BeeLink SER Pro 7i 16-32GB 8-core NUC PC with Linux 24.04.x server with WSPRDaemon installed is the heart of the HFRx. A RX888 MkII 16-bit ADC Software-defined Radio that provides 30Mhz of spectrum coverage stabilized by a Leo Bodnar LBE-1420 GPS-disciplined Oscillator that replaces the SDR's internal clock with GPS sourced timing. A Turn Island Systems (Dual) 30Mhz Filter-preamp provide antialiasing filtering of signals above 30Mhz sourced from a low-noise DX Engineering RSEAV1 active vertical antenna. Note: This build of the HFRx PSWS does not include the optional TIS-TS1 TimeSync device.
 
-The components are mounted on an aluminum plate held in place by 3D printed hold downs, M3 hardware, 3M self-adhesive tie-down pads contained in a Zulkit aluminum cabinet. All internal connections consists of high-quality SMA connectors, coax and USB cables. 12VDC is provided to the PSWS components and the active antenna by 1.2 amp linear power supplies. Do not use inexpensive switching supplies. All DC lines are choked to reduce or eliminate any potention RF.
+The engineer staff at the University of Scranton's HamSCI team have established a standard construction style where the components are mounted on an aluminum plate with components held in place by 3D printed hold downs. All internal connections consists of high-quality SMA connectors, coax and USB cables. 12VDC is provided to the PSWS components and the active antenna by 1.2 amp linear power supplies. This construction method is encouraged but not required.
 
 ###
 |  Item  |  Source  | Information  &  Support |
