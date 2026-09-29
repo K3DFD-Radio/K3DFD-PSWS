@@ -2,11 +2,11 @@
 
 The construction style of an HFRx PSWS is up to the builder. However, the hardware and software must work together to insure that operational performance levels provides useful data to HamSCI.
 
-A BeeLink SER Pro 7i 16-32GB 8-core NUC PC with Linux 24.04.x server with WSPRDaemon installed is the heart of the HFRx. A RX888 MkII 16-bit ADC Software-defined Radio that provides 30Mhz of spectrum coverage stabilized by a Leo Bodnar LBE-1420 GPS-disciplined Oscillator that replaces the SDR's internal clock with GPS sourced timing. A Turn Island Systems (Dual) 30Mhz Filter-preamp provide antialiasing filtering of signals above 30Mhz sourced from a low-noise DX Engineering RSEAV1 active vertical antenna. Note: This build of the HFRx PSWS does not include the optional TIS-TS1 TimeSync device.
+A BeeLink SER Pro 7i 16-32GB 8-core NUC PC with Linux 24.04.x server with WSPRDaemon installed is the heart of the HFRx. Stabilized by a Leo Bodnar LBE-1420 GPS-disciplined Oscillator, and RX888 MkII 16-bit ADC Software-defined Radio provides 30Mhz of spectrum coverage. A Turn Island Systems (Dual) 30Mhz Filter-preamp provide filtering of signals above 30Mhz sourced from a low-noise DX Engineering RSEAV1 active vertical antenna. Note: This build of the HFRx PSWS does not include the optional TIS-TS1 TimeSync device.
 
-The engineer staff at the University of Scranton's HamSCI team have established a standard construction style where the components are mounted on an aluminum plate with components held in place by 3D printed hold downs. All internal connections consists of high-quality SMA connectors, coax and USB cables. 12VDC is provided to the PSWS components and the active antenna by 1.2 amp linear power supplies. This construction method is encouraged but not required.
+The engineer staff at the University of Scranton's HamSCI team has established a standard construction style where the components are mounted on an aluminum plate with components held in place by 3D printed hold downs. All internal connections consists of high-quality SMA connectors, coax and USB cables. 12VDC is provided to the PSWS components and the active antenna by 1.2 amp linear power supplies. This construction method is highly encouraged but not required.
 
-###
+### System Components
 |  Item  |  Source  | Information  &  Support |
 |------|--------|--------|
 | RX888 MkII SDR | [OpenSourceLabs](https://opensourcesdrlab.com/products/rx888-mkii-16bit-sdr-receiver-radio-ltc2208-adc-upgrade-rx888-1) | [Instructions](https://github.com/ik1xpv/ExtIO_sddc) [Linux Drivers](https://github.com/cozycactus/SoapyRX888) |
