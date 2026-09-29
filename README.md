@@ -1,10 +1,12 @@
-## K3DFD HamSCi RX888 WSPRDaemon SDR Personal Space Weather Station  
+## K3DFD HamSCi HFRx Personal Space Weather Station  
 
 ---
-<img width="1707" height="960" alt="image" src="https://github.com/user-attachments/assets/ab836dde-0132-4e4b-95d8-efa7d719f4fc" />
+
 
 ### Project Overview  
 The goal of the PSWS project is to create a geographically distributed, multi-instrument system for ground-based space environment measurements. Data from this node is aggregated into a central HamSCI database for space science research, specifically for analyzing phenomena like [**Traveling Ionospheric Disturbances (TIDs)**](https://glossary.ametsoc.org/wiki/traveling-ionospheric-disturbances/). Technically, it is a wide-spectrum receiving system that reports WSPR/FST4w and WWV/WWVH and CHU time standard signal Doppler-shift monitoring data in the Digital RF _DRF_ format.  This data is useful for studying the behavior of the ionosphere.  
+
+<img width="1153" height="768" alt="Connection Diagram" src="https://github.com/user-attachments/assets/c7b59721-9646-4e41-a902-2d13c4e4d84f" />
 
 [WSPRDeamon](https://wsprdaemon.readthedocs.io/en/master/index.html) by Rob Robinette [AI6VN](https://www.qrz.com/db/AI6VN), incorporating Phil Karn's [ka9q-radio](https://ka9q-radio.org) is a Linux-based service designed to operate as a reliable, autonomous appliance for Amateur Radio operators and researchers. Its primary function is to decode WSPR and FST4W spots from one or more Software-Defined Radios (SDRs) and reliably upload them to public databases like [wsprnet.org](https://wsprnet.org) and [wspr.rocks](https://wspr.rocks). The project emphasizes high reliability, advanced features, and scientific data collection, going beyond the capabilities of applications like WSJT-X.  
 
