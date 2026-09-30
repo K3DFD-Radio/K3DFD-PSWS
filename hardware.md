@@ -17,7 +17,7 @@ The engineer staff at the University of Scranton's HamSCI team has established a
 [ ] Step 3: Place the blue foam cooling pad that came with the GPS Clock+Thermal kit on the back side of the SDR board, copper foil side up.  
 <img width="740" height="488" alt="Thermal Pad" src="https://github.com/user-attachments/assets/50c9989b-edc1-4cc8-878a-d6f8b7c2d508" />  
 [ ] Step 4:   
-<img width="500" height="488" alt="Slide TAPR pad into RX888" src="https://github.com/user-attachments/assets/140f98f3-94b2-46de-8986-50746bd41b3e" />
+<img width="500" height="450" alt="Slide TAPR pad into RX888" src="https://github.com/user-attachments/assets/140f98f3-94b2-46de-8986-50746bd41b3e" />
 
 
 |  Item  |  Source  | Information  &  Support |
