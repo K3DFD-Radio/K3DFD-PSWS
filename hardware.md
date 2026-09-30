@@ -11,7 +11,7 @@ The engineer staff at the University of Scranton's HamSCI team has established a
 <img width="1153" height="768" alt="Connection Diagram" src="https://github.com/user-attachments/assets/f65237ec-85c6-49d2-bf90-f165ec6ccf98" />
 
 ### Modifying the RX888 MkII SDR
-[ ] Step 1: Open the RX888 MkII and remove the board.
+[ ] Step 1: Open the RX888 MkII and remove the board.  
 [ ] Step 2: Remove the two white pads  
 <img width="331" height="208" alt="pads" src="https://github.com/user-attachments/assets/031d3a64-56fa-4f1e-a52c-d24328f6e6bd" />
 [ ] Step 3: Place the blue foam cooling pad that came with the GPS Clock+Thermal kit on the back side of the SDR board, copper foil side up.  
