@@ -11,21 +11,24 @@ The engineer staff at the University of Scranton's HamSCI team has established a
 <img width="1153" height="768" alt="Connection Diagram" src="https://github.com/user-attachments/assets/f65237ec-85c6-49d2-bf90-f165ec6ccf98" />
 
 ### Modifying the RX888 MkII SDR
-
-
-[ ] Step 1: Open the RX888 MkII and remove the board.  
-[ ] Step 2: Remove the two white pads  
-<img width="740" height="488" alt="pads" src="https://github.com/user-attachments/assets/031d3a64-56fa-4f1e-a52c-d24328f6e6bd" />  
-[ ] Step 3: Place the blue foam cooling pad that came with the GPS Clock+Thermal kit on the back side of the SDR board, copper foil side up.  
-<img width="740" height="488" alt="Thermal Pad" src="https://github.com/user-attachments/assets/50c9989b-edc1-4cc8-878a-d6f8b7c2d508" />  
-[ ] Step 4:   
-<img width="488" height="740" alt="Slide TAPR pad into RX888" src="https://github.com/user-attachments/assets/140f98f3-94b2-46de-8986-50746bd41b3e" />
-
-
 |  Item  |  Source  | Information  &  Support |
 |------|--------|--------|
 | RX888 MkII SDR | [OpenSourceLabs](https://opensourcesdrlab.com/products/rx888-mkii-16bit-sdr-receiver-radio-ltc2208-adc-upgrade-rx888-1) | [Instructions](https://github.com/ik1xpv/ExtIO_sddc) [Linux Drivers](https://github.com/cozycactus/SoapyRX888) |
 | GPS Clock+Thermal kit | [TAPR RX-888 Clock kit and thermal pad](https://tapr.org/product/rx888-clock-kit-and-thermal-pad/) | [Instructions](https://turnislandsystems.com/wp-content/uploads/2024/05/RX888-Kit-2.pdf) |
+
+[ ] Step 1: Open the RX888 MkII and remove the board.  
+[ ] Step 2: Remove the two white pads  
+<img width="740" height="488" alt="pads" src="https://github.com/user-attachments/assets/031d3a64-56fa-4f1e-a52c-d24328f6e6bd" />  
+[ ] Step 3: Place the blue foam cooling pad that came with the GPS Clock+Thermal kit on the back side of the SDR board, copper foil side up.   
+<img width="740" height="488" alt="Thermal Pad" src="https://github.com/user-attachments/assets/50c9989b-edc1-4cc8-878a-d6f8b7c2d508" />  
+[ ] Step 4: Remove (open) internal timing clock jumper to disable internal clock. Attach the GPSDO antenna to the U.FL socket on the board   
+<img width="740" height="413" alt="GPS_timing_connect" src="https://github.com/user-attachments/assets/ef435490-7ea6-43c3-960f-3f56e7807f60" />  
+
+[ ] Step 5:   
+<img width="488" height="740" alt="Slide TAPR pad into RX888" src="https://github.com/user-attachments/assets/140f98f3-94b2-46de-8986-50746bd41b3e" />
+[ ] 
+
+
 
 ### System Components
 |  Item  |  Source  | Information  &  Support |
