@@ -23,10 +23,9 @@ The engineer staff at the University of Scranton's HamSCI team has established a
 <img width="740" height="488" alt="Thermal Pad" src="https://github.com/user-attachments/assets/50c9989b-edc1-4cc8-878a-d6f8b7c2d508" />  
 [ ] Step 4: Remove (open) internal timing clock jumper to disable internal clock. Attach the GPSDO antenna to the U.FL socket on the board   
 <img width="740" height="413" alt="GPS_timing_connect" src="https://github.com/user-attachments/assets/ef435490-7ea6-43c3-960f-3f56e7807f60" />  
-
 [ ] Step 5:   
 <img width="488" height="740" alt="Slide TAPR pad into RX888" src="https://github.com/user-attachments/assets/140f98f3-94b2-46de-8986-50746bd41b3e" />
-[ ] 
+[ ] Step 6: 
 
 
 
