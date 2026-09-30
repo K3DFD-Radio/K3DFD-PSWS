@@ -15,7 +15,7 @@ The software that processes the Digital RF _DRF_ format information received by 
 ### System Block Diagram
 <img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/f20a7ee4-881c-4ba0-92e2-a33dcc595e65" />  
 
-## Building the RX888 WSPRDaemon SDR Station
+## Building the HFRx RX888 WSPRDaemon SDR Station
 1. [Hardware Build](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/hardware.md)  
 2. [Official HamSCI System Installation & Configuration](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
 3. [Use of the PSWS & WSPRDaemon](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
