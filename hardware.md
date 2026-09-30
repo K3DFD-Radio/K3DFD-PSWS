@@ -17,15 +17,17 @@ The engineer staff at the University of Scranton's HamSCI team has established a
 | GPS Clock+Thermal kit | [TAPR RX-888 Clock kit and thermal pad](https://tapr.org/product/rx888-clock-kit-and-thermal-pad/) | [Instructions](https://turnislandsystems.com/wp-content/uploads/2024/05/RX888-Kit-2.pdf) |
 
 [ ] Step 1: Open the RX888 MkII and remove the board.  
-[ ] Step 2: Remove the two white pads  
+[ ] Step 2: Remove the two white pads from the non-component side  
 <img width="740" height="488" alt="pads" src="https://github.com/user-attachments/assets/031d3a64-56fa-4f1e-a52c-d24328f6e6bd" />  
-[ ] Step 3: Place the blue foam cooling pad that came with the GPS Clock+Thermal kit on the back side of the SDR board, copper foil side up.   
+[ ] Step 3: Place the blue foam cooling pad that came with the GPS Clock+Thermal kit on the non-component side of the SDR board, copper foil side up.   
 <img width="740" height="488" alt="Thermal Pad" src="https://github.com/user-attachments/assets/50c9989b-edc1-4cc8-878a-d6f8b7c2d508" />  
-[ ] Step 4: Remove (open) internal timing clock jumper to disable internal clock. Attach the GPSDO antenna to the U.FL socket on the board   
+[ ] Step 4: Remove or open internal timing clock jumper to disable internal clock. Attach the coax from the TAPR Clock+Thermal kit antenna to the U.FL socket next to the jumper   
 <img width="740" height="413" alt="GPS_timing_connect" src="https://github.com/user-attachments/assets/ef435490-7ea6-43c3-960f-3f56e7807f60" />  
-[ ] Step 5:   
+[ ] Step 5: Carefully slide the SDR board about 3/4 of the way back into the case. Do not damage the copper foil.
 <img width="488" height="740" alt="Slide TAPR pad into RX888" src="https://github.com/user-attachments/assets/140f98f3-94b2-46de-8986-50746bd41b3e" />
-[ ] Step 6: 
+[ ] Step 6: Place the SMA female side TAPR Clock+Thermal kit connector through the provided end plate and tighten with provided nut. Slide the board completely into the SDR case and affix the new endplate to the SDR
+<img width="940" height="562" alt="TAPR GPS Adapter" src="https://github.com/user-attachments/assets/7a14f2a0-31b8-4d86-9a5c-cf59cf80b3aa" />
+
 
 
 
