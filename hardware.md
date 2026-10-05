@@ -11,12 +11,13 @@ The engineering staff at the University of Scranton's HamSCI team has establishe
 <img width="1153" height="768" alt="Connection Diagram" src="https://github.com/user-attachments/assets/f65237ec-85c6-49d2-bf90-f165ec6ccf98" />
 
 ### STEP 1: Modifying the RX888 MkII SDR  
+Parts Required -
 |  Item  |  Source  | Information  &  Support |
 |------|--------|--------|
 | RX888 MkII SDR | [OpenSourceLabs](https://opensourcesdrlab.com/products/rx888-mkii-16bit-sdr-receiver-radio-ltc2208-adc-upgrade-rx888-1) | [Instructions](https://github.com/ik1xpv/ExtIO_sddc) [Linux Drivers](https://github.com/cozycactus/SoapyRX888) |
 | GPS Clock+Thermal kit | [TAPR RX-888 Clock kit and thermal pad](https://tapr.org/product/rx888-clock-kit-and-thermal-pad/) | [Instructions](https://turnislandsystems.com/wp-content/uploads/2024/05/RX888-Kit-2.pdf) |
 
-[ ] Step 1: Open the RX888 MkII and remove the board.  
+[ ] Step 1: Open the RX888 MkII and remove the board.    
 [ ] Step 2: Remove the two white pads from the non-component side  
 <img width="740" height="488" alt="pads" src="https://github.com/user-attachments/assets/031d3a64-56fa-4f1e-a52c-d24328f6e6bd" />  
 [ ] Step 3: Place the blue foam cooling pad that came with the GPS Clock+Thermal kit on the non-component side of the SDR board, copper foil side up.   
