@@ -15,8 +15,8 @@ The engineering staff at the University of Scranton's HamSCI team has establishe
 Parts Required -
 |  Item  |  Source  | Information  &  Support |
 |------|--------|--------|
-| 8" X 10" X 1/8" (3.17mm) Aluminum Sheet | [](https://opensourcesdrlab.com/products/rx888-mkii-16bit-sdr-receiver-radio-ltc2208-adc-upgrade-rx888-1) |
-| 8" X 10" X 1/8" (3.17mm) Plexaglas Sheet | [TAPR RX-888 Clock kit and thermal pad](https://tapr.org/product/rx888-clock-kit-and-thermal-pad/) |
+| 8" X 10" X 1/8" (3.17mm) Aluminum Sheet | [Source: Amazon](https://a.co/d/0e5haOCW) |
+| 8" X 10" X 1/8" (3.17mm) Plexiglas Sheet | [Source: Amazon](https://a.co/d/046o1dCD) |
 
 
 <img width="1153" height="768" alt="Connection Diagram" src="https://github.com/user-attachments/assets/f65237ec-85c6-49d2-bf90-f165ec6ccf98" />
