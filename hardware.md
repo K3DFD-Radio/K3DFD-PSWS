@@ -36,14 +36,10 @@ Parts Required -
 <img width="740" height="413" alt="GPS_timing_connect" src="https://github.com/user-attachments/assets/ef435490-7ea6-43c3-960f-3f56e7807f60" />  
 [ ] Step 5: Carefully slide the SDR board about 3/4 of the way back into the case. Do not damage the copper foil.  
 <img width="488" height="740" alt="Slide TAPR pad into RX888" src="https://github.com/user-attachments/assets/140f98f3-94b2-46de-8986-50746bd41b3e" />  
-[ ] Step 6: Place the SMA female TAPR Clock+Thermal kit connector through the provided end plate and tighten with provided nut.  
+[ ] Step 6: Place the SMA female TAPR Clock+Thermal kit connector through the provided end plate and tighten with provided nut.   
 <img width="940" height="562" alt="TAPR GPS Adapter" src="https://github.com/user-attachments/assets/7a14f2a0-31b8-4d86-9a5c-cf59cf80b3aa" />  
 [ ] Step 7: Slide the board completely into the SDR case and affix the new endplate to the SDR  
 <img width="410" height="489" alt="TAPR GPS Adapter in-place" src="https://github.com/user-attachments/assets/64c58919-6650-4212-849b-a20278f6dd6d" />  
-
-
-
-
 
 ### System Components
 |  Item  |  Source  | Information  &  Support |
@@ -110,15 +106,12 @@ The antenna's physical design is lacking in sufficient protection from rain, sno
 
 <img width="543" height="445" alt="image" src="https://github.com/user-attachments/assets/9160507b-0668-4c48-b2ff-e8ed64deb28a" />
 
-
-
 Connect the LBE-1420 GPS clock's SMA output to the RX-888 TAPR clock-modified GPS-in on the new end board, then connect both the RX888 and the LBE-1420 devices to the PSWS Beelink computer via their USB cables to a USB-3 port (blue tab).
 
 > 📷 **Receiver Setup Schematic:** The Beelink PC, RX-888 Receiver, and GPS Disciplined Oscillator are connected as follows:
 > - 🟡 Yellow — GPS Oscillator to RX-888
 > - 🔴 Red — GPS Oscillator to PC
 > - 🟢 Green — RX-888 to PC
-
 
 This completes the required component modifications  
   
