@@ -13,8 +13,8 @@ The engineering staff at the University of Scranton's HamSCI team has establishe
 
 ### STEP 1: Preparing the Physical System Component Board  
 Parts Required -
-|  Item  |  Source  | Information  &  Support |
-|------|--------|--------|
+|  Item  |  Source  |
+|------|--------|
 | 8" X 10" X 1/8" (3.17mm) Aluminum Sheet | [Source: Amazon](https://a.co/d/0e5haOCW) |
 | 8" X 10" X 1/8" (3.17mm) Plexiglas Sheet | [Source: Amazon](https://a.co/d/046o1dCD) |
 
