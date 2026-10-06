@@ -28,9 +28,9 @@ The software that processes the Digital RF _DRF_ format information received by 
 
 ---
 ## Building the HFRx RX888 WSPRDaemon SDR Station
-# [STEP 1 - Build your HRFx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/hardware.md)  
-# [STEP 2 - System Installation & Configuration](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
-# [STEP 3 - How to use and maintain your HFRx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
+# [STEP 1 Hardware - Build your HRFx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/hardware.md)  
+# [STEP 2 Software = System Installation & Configuration](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
+# [STEP 3 Use and Admin - How to use and maintain your HFRx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
 ---
 ## More Information, Sources and Links 
 [Links and Information Sources](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/sources_links.md)    
