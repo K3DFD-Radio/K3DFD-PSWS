@@ -27,11 +27,10 @@ The software that processes the Digital RF _DRF_ format information received by 
 | Power Supply | [12VDC Linear Power Supply](https://www.jameco.com/z/DDU120100Z7972-Jameco-ReliaPro-AC-to-DC-Wall-Adapter-Transformer-12-Volt-1-Amp-12-Watt_100870.html) |  
 
 ---
-## [STEP 1 - Build your HRFx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/hardware.md)  
+## Building the HFRx RX888 WSPRDaemon SDR Station
+# [STEP 1 - Build your HRFx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/hardware.md)  
+# [STEP 2 - System Installation & Configuration](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
+# [STEP 3 - How to use and maintain your HFRx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
 ---
-## Building the HFRx RX888 WSPRDaemon SDR Station  
-[STEP 2 - System Installation & Configuration](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
-[STEP 3 - How to use and maintain your HFRx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
----
-## Building the HFRx RX888 WSPRDaemon SDR Station  
+## More Information, Sources and Links 
 [Links and Information Sources](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/sources_links.md)    
