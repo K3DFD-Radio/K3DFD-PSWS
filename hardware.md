@@ -6,7 +6,7 @@ The RX-888 Mk2 Software Defined Radio is the heart of the HFRx. The BeeLink SER 
 
 The engineering staff at the University of Scranton's HamSCI team has established a construction style where the components are mounted on an 8” x 10” X 1/8” Aluminum sheet with components held in place by 3D printed hold downs. All internal connections consists of high-quality SMA connectors, coax and USB cables. 12VDC is provided to the PSWS components and the active antenna by a Jameco 12V 500mA (or greater) linear power supply. This construction method is highly encouraged but not required.  
 ## System Block Diagram  
-<img width="837" height="565" alt="Block Diagram" src="https://github.com/user-attachments/assets/197384ec-ade4-4c1e-8027-075bc1146ea6" />  
+<img width="1153" height="768" alt="Block Diagram" src="https://github.com/user-attachments/assets/197384ec-ade4-4c1e-8027-075bc1146ea6" />  
 
 ### STEP 1: Preparing the Physical System Component Board
 Parts Required -
