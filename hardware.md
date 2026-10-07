@@ -21,8 +21,9 @@ Parts Required -
 | 8" X 10" X 1/8" (3.17mm) Plexiglas Sheet | [Amazon](https://a.co/d/046o1dCD) |
 | *4 5X M4 hex brass spacer 50mm (or 40+10mm) female to female | [Amazon](https://a.co/) |
 | 4 QTY Rubber 'feet' | [Amazon](https://a.co/) |  
-* If sourcing a 50mm hex brass spacer is difficult, use a combination of a 40mm + 10mm hex space to provide the sufficient headroom  
+If sourcing a 50mm hex brass spacer is difficult, use a combination of a 40mm + 10mm hex space to provide the sufficient headroom  
 <img width="1153" height="768" alt="PSWS Plexiglass" src="https://github.com/user-attachments/assets/da7244e0-6868-4dbc-8efb-c34c8fd7941f" />
+[ ]
 
 ### STEP 2 Printing the component mounts and hold-downs  
 Parts Required -
