@@ -19,7 +19,7 @@ Parts Required -
 |---------|----------|
 | 8" X 10" X 1/8" (3.17mm) Aluminum Sheet | [Source: Amazon](https://a.co/d/0e5haOCW) |
 | 8" X 10" X 1/8" (3.17mm) Plexiglas Sheet | [Source: Amazon](https://a.co/d/046o1dCD) |
-| 4 5X M4 hex brass spacer 50mm (or 40+10mm) female to female | [Source:](https://a.co/ |
+| 4 5X M4 hex brass spacer 50mm (or 40+10mm) female to female | [Source:](https://a.co/) |
 | 4 QTY Rubber 'feet' | [Source:](https://a.co/) |  
 <img width="1153" height="768" alt="PSWS Plexiglass" src="https://github.com/user-attachments/assets/da7244e0-6868-4dbc-8efb-c34c8fd7941f" />
 
@@ -27,10 +27,10 @@ Parts Required -
 Parts Required -
 |  Item  |  Source  |
 |---------|----------|
-| 40mm Fan Holder | [Source: GDrive](https://drive.google.com/file/d/1ZR34g1ZgH7q--fjzyhHHjl_GkNwuVO9y/view?usp=sharing) |
-| TIS 30Mhz Filter | [Source: GDrive](https://drive.google.com/file/d/1IrFu1ZWpXSL4lWpJRmOSIEOuSLvdFMrz/view?usp=sharing) |
-| Leo Bodner LBE-1420 | [Source: GDrive](https://drive.google.com/file/d/1xLlqFm57mBD5PPnAO138lJIPyoZd7v_A/view?usp=sharing) |
-| RX-888 Mk II SDR | [Source: GDrive](https://drive.google.com/file/d/1ySCSn3g5AbmjJ8bsmYNKOUIU5xIs7jpk/view?usp=sharing) |  
+| 40mm Fan Holder | [GDrive](https://drive.google.com/file/d/1ZR34g1ZgH7q--fjzyhHHjl_GkNwuVO9y/view?usp=sharing) |
+| TIS 30Mhz Filter | [GDrive](https://drive.google.com/file/d/1IrFu1ZWpXSL4lWpJRmOSIEOuSLvdFMrz/view?usp=sharing) |
+| Leo Bodner LBE-1420 | [GDrive](https://drive.google.com/file/d/1xLlqFm57mBD5PPnAO138lJIPyoZd7v_A/view?usp=sharing) |
+| RX-888 Mk II SDR | [GDrive](https://drive.google.com/file/d/1ySCSn3g5AbmjJ8bsmYNKOUIU5xIs7jpk/view?usp=sharing) |  
 PLA works fine for these components. While you can use ABS, there are no heavy structural requirements. 15% infill is sufficient.  
 <img width="1153" height="768" alt="image" src="https://github.com/user-attachments/assets/78566f5b-1802-4ac2-9dab-d14514dd2a59" />
 [ ] Step 1: Download the required .stl files from this repository: [HRFx PSWS .stl files](https://drive.google.com/drive/folders/1YeJeeC-uSJrnpS0maQg5exwwV9ubscKA?usp=sharing)  
