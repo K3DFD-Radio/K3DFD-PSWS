@@ -13,7 +13,7 @@ The engineering staff at the University of Scranton's HamSCI team has establishe
 ## System Block Diagram  
 <img width="1153" height="768" alt="Block Diagram" src="https://github.com/user-attachments/assets/197384ec-ade4-4c1e-8027-075bc1146ea6" />  
 
-### STEP 1: Preparing the aluminum component board & Plexiglas over 
+### STEP 1: Preparing the aluminum component board & Plexiglas cover 
 Parts Required -
 |  Item  |  Source  |
 |---------|----------|
