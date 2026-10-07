@@ -21,8 +21,10 @@ Parts Required -
 | 8" X 10" X 1/8" (3.17mm) Plexiglas Sheet | [Source: Amazon](https://a.co/d/046o1dCD) |
 | 4 5X M4 hex brass spacer 50mm (or 40+10mm) female to female | [Source:](https://a.co/ |
 | 4 QTY Rubber 'feet' | [Source:](https://a.co/) |  
+<img width="640" height="480" alt="PSWS Plexiglass" src="https://github.com/user-attachments/assets/da7244e0-6868-4dbc-8efb-c34c8fd7941f" />
 
-### STEP 2 Printing the 3D-printed component mounts and hold-downs  
+
+### STEP 2 Printing the component mounts and hold-downs  
 <img width="792" height="667" alt="image" src="https://github.com/user-attachments/assets/78566f5b-1802-4ac2-9dab-d14514dd2a59" />
 
 ### STEP 3: Modifying the RX888 MkII SDR  
