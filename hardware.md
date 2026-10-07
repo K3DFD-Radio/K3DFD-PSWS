@@ -6,19 +6,21 @@ The construction style of an HFRx PSWS is up to the builder. However, the hardwa
 The RX-888 Mk2 Software Defined Radio is the heart of the HFRx. The BeeLink SER Pro 7i 16-32GB 8-core NUC PC with Linux 24.04.x server with WSPRDaemon installed is the brain. Timing-stabilized by a Leo Bodnar LBE-1420 GPS-disciplined oscillator, the RX888 MkII 16-bit ADC Software-defined Radio provides a full 30Mhz of spectrum coverage - far wider than inexpensive 8-bit RTL-SDR dongles. A Turn Island Systems (Dual) 30Mhz Filter-preamp provide blocking of signals above 30Mhz and a low-noise DX Engineering RSEAV-1 active vertical antenna is used instead of a passive HF antenna.  
 
 The engineering staff at the University of Scranton's HamSCI team has established a construction style where the components are mounted on an 8” x 10” X 1/8” Aluminum sheet with components held in place by 3D printed hold downs. All internal connections consists of high-quality SMA connectors, coax and USB cables. 12VDC is provided to the PSWS components and the active antenna by a Jameco 12V 500mA (or greater) linear power supply. This construction method is highly encouraged but not required.  
+
+### Component Connections (PC not shown):  
+<img width="1153" height="768" alt="Connection Diagram" src="https://github.com/user-attachments/assets/f65237ec-85c6-49d2-bf90-f165ec6ccf98" />  
+
 ## System Block Diagram  
 <img width="1153" height="768" alt="Block Diagram" src="https://github.com/user-attachments/assets/197384ec-ade4-4c1e-8027-075bc1146ea6" />  
 
-### Component Connections:  
-<img width="1153" height="768" alt="Connection Diagram" src="https://github.com/user-attachments/assets/f65237ec-85c6-49d2-bf90-f165ec6ccf98" />  
-
-### STEP 1: Preparing the Physical System Component Board  
+### STEP 1: Preparing the aluminum component board & Plexiglas over 
 Parts Required -
 |  Item  |  Source  |
-|------|--------|
+|---------|----------|
 | 8" X 10" X 1/8" (3.17mm) Aluminum Sheet | [Source: Amazon](https://a.co/d/0e5haOCW) |
 | 8" X 10" X 1/8" (3.17mm) Plexiglas Sheet | [Source: Amazon](https://a.co/d/046o1dCD) |
-
+| 4
+| 4 QTY Rubber 'feet' | [Source:](https://a.co/) |
 
 <img width="1153" height="768" alt="Connection Diagram" src="https://github.com/user-attachments/assets/f65237ec-85c6-49d2-bf90-f165ec6ccf98" />
 
