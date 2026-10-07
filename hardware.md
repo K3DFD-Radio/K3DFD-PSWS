@@ -58,18 +58,6 @@ Parts Required -
 [ ] Step 7: Slide the board completely into the SDR case and affix the new endplate to the SDR  
 <img width="410" height="489" alt="TAPR GPS Adapter in-place" src="https://github.com/user-attachments/assets/64c58919-6650-4212-849b-a20278f6dd6d" />  
 
-### System Components
-|  Item  |  Source  | Information  &  Support |
-|------|--------|--------|
-| GPS Clock | [Leo Bodner LBE-1420](https://www.leobodnar.com/shop/index.php?main_page=product_info&cPath=107&products_id=393&zenid=0c06e05cfbe1ec87514a52daab4ec452)  | * |
-| Filter-Preamp | [Turn Island Systems Low pass filter and preamp](https://turnislandsystems.com/product/filter-preamp-v1/) | [12VDC Linear Power Supply](https://www.jameco.com/z/DDU120100Z7972-Jameco-ReliaPro-AC-to-DC-Wall-Adapter-Transformer-12-Volt-1-Amp-12-Watt_100870.html) |
-| Computer | [Beelink](https://www.amazon.com/Beelink-SER5-Computer-Graphics-Support/dp/B0D6G965B)  | [Ubuntu 24.04 Server LTE](https://ubuntu.com/download/server) |
-| Integration | [High-quality SMA connection cables](https://www.dxengineering.com/parts/cew-316ds001-2), [hardware](https://www.amazon.com/Saddle-Mounts-Tapping-Organizer-Holders/dp/B09B97326Z) | * |
-| RX888 SDR Cooling Fan | [Noctua NF-A4x10 FLX, Premium Quiet Fan](https://www.amazon.com/Noctua-Cooling-Blades-Bearing-NF-A4x10/dp/B009NQLT0M?pd_rd_w=gbwG0&content-id=amzn1.sym.5b28a964-6fd3-4c72-8c58-6450e7d02f5f&pf_rd_p=5b28a964-6fd3-4c72-8c58-6450e7d02f5f&pf_rd_r=0G5C06AR9745D0GVFQWF&pd_rd_wg=Msobs&pd_rd_r=c0dfe18b-ecbe-4a4c-9c6e-7b25a077237f&pd_rd_i=B009NQLT0M&psc=1&ref_=pd_basp_d_rpt_ba_s_1_t) |
-| Antenna | [DX Engineering Short Element Active Antenna DXE-RSEAV-1](https://www.dxengineering.com/parts/dxe-rseav-1) | [12VDC Linear Power Supply](https://www.jameco.com/z/DDU120100Z7972-Jameco-ReliaPro-AC-to-DC-Wall-Adapter-Transformer-12-Volt-1-Amp-12-Watt_100870.html)
-
-
----
 ## Assemble and Configure the DX Engineering DXE-RSEAV-1 Short Vertical Active Antenna  
 1. The first task is to change the internal J2 and J3 jumper settings to disable the Bias-T power source feature. Move both J2 and J3 jumpers from the 1-2 position to the 2-3 position. Then the required 12VDC will be supplied to the type-F connector on the front of the antenna box.  
 <img width="1153" height="768" alt="image" src="https://github.com/user-attachments/assets/1a676475-a87c-4fe0-bac0-027ff0272290" />  
