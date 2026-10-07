@@ -19,10 +19,11 @@ Parts Required -
 |---------|----------|
 | 8" X 10" X 1/8" (3.17mm) Aluminum Sheet | [Source: Amazon](https://a.co/d/0e5haOCW) |
 | 8" X 10" X 1/8" (3.17mm) Plexiglas Sheet | [Source: Amazon](https://a.co/d/046o1dCD) |
-| 4
-| 4 QTY Rubber 'feet' | [Source:](https://a.co/) |
+| 4 5X M4 hex brass spacer 50mm (or 40+10mm) female to female | [Source:](https://a.co/ |
+| 4 QTY Rubber 'feet' | [Source:](https://a.co/) |  
 
-<img width="1153" height="768" alt="Connection Diagram" src="https://github.com/user-attachments/assets/f65237ec-85c6-49d2-bf90-f165ec6ccf98" />
+### STEP 2 Printing the 3D-printed component mounts and hold-downs  
+<img width="792" height="667" alt="image" src="https://github.com/user-attachments/assets/78566f5b-1802-4ac2-9dab-d14514dd2a59" />
 
 ### STEP 3: Modifying the RX888 MkII SDR  
 Parts Required -
