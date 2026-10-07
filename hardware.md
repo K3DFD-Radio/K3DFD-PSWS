@@ -56,38 +56,6 @@ Parts Required -
 | RX888 SDR Cooling Fan | [Noctua NF-A4x10 FLX, Premium Quiet Fan](https://www.amazon.com/Noctua-Cooling-Blades-Bearing-NF-A4x10/dp/B009NQLT0M?pd_rd_w=gbwG0&content-id=amzn1.sym.5b28a964-6fd3-4c72-8c58-6450e7d02f5f&pf_rd_p=5b28a964-6fd3-4c72-8c58-6450e7d02f5f&pf_rd_r=0G5C06AR9745D0GVFQWF&pd_rd_wg=Msobs&pd_rd_r=c0dfe18b-ecbe-4a4c-9c6e-7b25a077237f&pd_rd_i=B009NQLT0M&psc=1&ref_=pd_basp_d_rpt_ba_s_1_t) |
 | Antenna | [DX Engineering Short Element Active Antenna DXE-RSEAV-1](https://www.dxengineering.com/parts/dxe-rseav-1) | [12VDC Linear Power Supply](https://www.jameco.com/z/DDU120100Z7972-Jameco-ReliaPro-AC-to-DC-Wall-Adapter-Transformer-12-Volt-1-Amp-12-Watt_100870.html)
 
-## Reference and instruction manuals -  
-[RX888 MkII SDR Source](https://dc4ku.com/.cm4all/uproc.php/0/SDR%20-%20TEST-BERICHTE/RX888_english.pdf?cdp=a&_=1806ad658e7)  
-[TAPR Clock kit and thermal Pad](https://turnislandsystems.com/wp-content/uploads/2024/05/RX888-Kit-2.pdf)    
-[Leo Bodnae LBE-1420 GPS Disciplined Oscillator](https://github.com/simontheu/lbe-1420)  
-[TIS 30Mhz Filter-preamp](https://turnislandsystems.com/wp-content/uploads/2024/10/Filter-Preamp-v1-rev-6.pdf)  
-[DX Engineering DXE-RSEAV1 Active Antenna](https://static.dxengineering.com/global/images/instructions/dxe-rseav-1fvi.pdf?_gl=1*aiifno*_gcl_au*MjY1MDA5NDMzLjE3NzcxMjkxODI.*_ga*ODc1MzkyNjAxLjE3NzcxMjkxODI.*_ga_NZB590FMHY*czE3Nzg1MjAwMzUkbzYkZzEkdDE3Nzg1MjAwNTgkajM3JGwwJGgw)
-
-### Component Layout  
-In this instance the system components are mounted on a aluminum plate using thru-hole harware and 3D printed hold-downs. 
-
-### Drill Baseplate Mounting Holes
-Use a 4mm drill bit to open holes in the aluminum base plateplate and use M3 screws and nuts to place and affix the 3D hold downs. 
-<img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/cc9186c5-f339-4bc0-ba5c-c18ac4f96f91" />  
-
-### 3D printed Component Hold Downs
-You can use these .stl file to print the component hold down parts that affix the RX888, GPSDO and Filter-Preamp to the aluminum plate. ABS recommended although .20mm layer / 20% infill PLA works well  
-[.stl file for RX888 MkII SDR](https://drive.google.com/file/d/11iTI1NAHCLrqhb-Ud5RXdYGEvIffmVQV/view?usp=sharing)  
-[.stl file for Leo Bodnar LBE-1420](https://drive.google.com/file/d/18yck0PaMf3_px7qnixWy3uBU1HxInkka/view?usp=sharing)  
-[.stl file for Turn Island Systems 30Mhz Filter-Preamp](https://drive.google.com/file/d/1gPSx4msNTrLTgFopmkgazG57UBLr8tAZ/view?usp=sharing)  
-<img width="1143" height="767" alt="image" src="https://github.com/user-attachments/assets/6318063e-6c47-48c7-a323-7d009c39c269" />  
-
-## Perform Required RX888 clock-Thermal Kit Installation, DXE-RSEAV1 Antenna Bias-T Disable and LBE-1420 Clock Freq Configuration
-
-### Open up the RX888 MkII SDR and install the TAPR Clock and Thermal Pad kit  
-
-Before connecting the RX888 MkII SDR, some hardware modifications are required. The internal oscillator does not meet the 10 mHz accuracy requirement, so the Leo Bodnar LBE-1420 external clock must be connected and configured for 27MHz. Additionally, a thermal pad should be added to the bottom of the board to address heat dissipation. Refer to the [RX888 Clock Kit - Thermal Pad Manual](https://turnislandsystems.com/wp-content/uploads/2024/05/RX888-Kit-2.pdf) for modification instructions and see below:  
-
-Remove the endplate from the RX888 MkII SDR on the side with the USB socket. As shown below and in the above instructions, install the Clock and Thermal kit to the SDR. Exercise caution when attaching the coax's u.FL connector to the center of the board. Remove the plastic jumper to disable the internal clock and activate the Bodner GPS DO.  
-
-Also, attach the rubber pad to the underside of the SDR's board and the copper tape to the exposed side of the pad. This side will face and press against the body of the SDR to improve heat transfer.   
-
-<img width="1143" height="585" alt="image" src="https://github.com/user-attachments/assets/c923a7ea-6167-4dcb-9652-7dc2c4a7bda2" />
 
 ---
 ## Assemble and Configure the DX Engineering DXE-RSEAV-1 Short Vertical Active Antenna  
@@ -118,13 +86,6 @@ Connect the LBE-1420 GPS clock's SMA output to the RX-888 TAPR clock-modified GP
 > - 🔴 Red — GPS Oscillator to PC
 > - 🟢 Green — RX-888 to PC
 
-This completes the required component modifications  
-  
-Install Linux Server and WSPRDaemon on the BeeLink SER Pro NUC PC  
-<img width="1143" height="796" alt="image" src="https://github.com/user-attachments/assets/2f2aa991-23fe-4a95-b3bd-38fa137843d9" />
-
-## Next Steps -  
-### [Follow the HamSCI instructions to configure the Beelink PC with Linux 24.04.n and WSPRDaemon](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
-### Then Return Here for: [Operations](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
+## This completes the hardware building process  
 
 
