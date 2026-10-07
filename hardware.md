@@ -25,7 +25,7 @@ Parts Required -
 
 ### STEP 2 Printing the component mounts and hold-downs  
 <img width="1153" height="768" alt="image" src="https://github.com/user-attachments/assets/78566f5b-1802-4ac2-9dab-d14514dd2a59" />
-
+[ ] Step 1: Download the required .stl files from this repository: [HRFx PSWS .stl files]
 ### STEP 3: Modifying the RX888 MkII SDR  
 Parts Required -
 |  Item  |  Source  | Information  &  Support |
