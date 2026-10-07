@@ -31,6 +31,7 @@ Parts Required -
 | TIS 30Mhz Filter | [Source: GDrive](https://drive.google.com/file/d/1IrFu1ZWpXSL4lWpJRmOSIEOuSLvdFMrz/view?usp=sharing) |
 | Leo Bodner LBE-1420 | [Source: GDrive](https://drive.google.com/file/d/1xLlqFm57mBD5PPnAO138lJIPyoZd7v_A/view?usp=sharing) |
 | RX-888 Mk II SDR | [Source: GDrive](https://drive.google.com/file/d/1ySCSn3g5AbmjJ8bsmYNKOUIU5xIs7jpk/view?usp=sharing) |  
+PLA works fine for these components. While you can use ABS, there are no heavy structural requirements. 15% infill is sufficient.  
 <img width="1153" height="768" alt="image" src="https://github.com/user-attachments/assets/78566f5b-1802-4ac2-9dab-d14514dd2a59" />
 [ ] Step 1: Download the required .stl files from this repository: [HRFx PSWS .stl files](https://drive.google.com/drive/folders/1YeJeeC-uSJrnpS0maQg5exwwV9ubscKA?usp=sharing)  
 
