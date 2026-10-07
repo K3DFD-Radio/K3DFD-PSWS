@@ -21,6 +21,7 @@ Parts Required -
 | 8" X 10" X 1/8" (3.17mm) Plexiglas Sheet | [Source: Amazon](https://a.co/d/046o1dCD) |
 | 4 5X M4 hex brass spacer 50mm (or 40+10mm) female to female | [Source:](https://a.co/) |
 | 4 QTY Rubber 'feet' | [Source:](https://a.co/) |  
+PLA works fine for these components. While you can use ABS, there are no heavy structural requirements. 15% infill is sufficient.  
 <img width="1153" height="768" alt="PSWS Plexiglass" src="https://github.com/user-attachments/assets/da7244e0-6868-4dbc-8efb-c34c8fd7941f" />
 
 ### STEP 2 Printing the component mounts and hold-downs  
