@@ -4,6 +4,8 @@ The construction style of an HFRx PSWS is up to the builder. However, the hardwa
 
 The RX-888 Mk2 Software Defined Radio is the heart of the HFRx. The BeeLink SER Pro 7i 16-32GB 8-core NUC PC with Linux 24.04.x server with WSPRDaemon installed is the brain. Timing-stabilized by a Leo Bodnar LBE-1420 GPS-disciplined oscillator, the RX888 MkII 16-bit ADC Software-defined Radio provides a full 30Mhz of spectrum coverage - far wider than inexpensive 8-bit RTL-SDR dongles. A Turn Island Systems (Dual) 30Mhz Filter-preamp provide blocking of signals above 30Mhz and a low-noise DX Engineering RSEAV-1 active vertical antenna is used instead of a passive HF antenna.  
 
+The TS1 TimeSync unit generates a BPSK-modulated carrier signal that provides an extremely accurate time reference for SDR receivers used in TOF (Time of Flight) and TOA (Time of Arrival) measurements.  The TS1 is also designed to generate BPSK-modulated over-the-air signals, timestamped to indicate TOT (Time of Transmission).  
+
 The engineering staff at the University of Scranton's HamSCI team has established a construction style where the components are mounted on an 8” x 10” X 1/8” Aluminum sheet with components held in place by 3D printed hold downs. All internal connections consists of high-quality SMA connectors, coax and USB cables. 12VDC is provided to the PSWS components and the active antenna by a Jameco 12V 500mA (or greater) linear power supply. This construction method is highly encouraged but not required.  
 
 ### Recommended Construction Style - 
