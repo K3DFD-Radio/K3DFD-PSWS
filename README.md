@@ -13,7 +13,7 @@ The software that processes the Digital RF _DRF_ format information received by 
 ### System Diagram - 
 <img width="1126" height="883" alt="image" src="https://github.com/user-attachments/assets/7aa3be83-437b-482b-9f17-ad3fe38da1c9" />  
 
-## Main Components
+### Main Components
 |  Item     |  Source     | Information  &  Support      |
 |---------|-----------|-----------|
 | RX888 MkII SDR | [OpenSourceLabs](https://opensourcesdrlab.com/products/rx888-mkii-16bit-sdr-receiver-radio-ltc2208-adc-upgrade-rx888-1) | [Instructions](https://github.com/ik1xpv/ExtIO_sddc) [Linux Drivers](https://github.com/cozycactus/SoapyRX888) |
@@ -28,10 +28,10 @@ The software that processes the Digital RF _DRF_ format information received by 
 | Power Supply | [12VDC Linear Power Supply](https://www.jameco.com/z/DDU120100Z7972-Jameco-ReliaPro-AC-to-DC-Wall-Adapter-Transformer-12-Volt-1-Amp-12-Watt_100870.html) |  
 
 ---
-### Building the HFRx RX888 WSPRDaemon SDR Station
-## [STEP 1 Hardware - Build your HRFx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/hardware.md)  
-## [STEP 2 Software - System Installation & Configuration](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
-## [STEP 3 Use and Admin - How to use and maintain your HFRx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
+## Building the HFRx RX888 WSPRDaemon SDR Station
+### [STEP 1 Hardware - Build your HRFx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/hardware.md)  
+### [STEP 2 Software - System Installation & Configuration](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
+### [STEP 3 Use and Admin - How to use and maintain your HFRx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
 ---
 ## More Information, Sources and Links 
 ## [Links and Information Sources](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/sources_links.md)    
