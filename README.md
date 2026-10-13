@@ -1,8 +1,7 @@
 ## HamSCi HFRx Personal Space Weather Station  
 
 ---
-<img width="1043" height="960" alt="image" src="https://github.com/user-attachments/assets/8c96f2ba-9deb-4760-a0e7-90ccf70e9ea5" />
-
+<img width="1043" height="960" alt="image" src="https://github.com/user-attachments/assets/8c96f2ba-9deb-4760-a0e7-90ccf70e9ea5" />  
 
 ### Project Overview  
 The goal of the HFRx PSWS project is to create a geographically distributed, multi-instrument network of special receivers for ground-based space environment measurements. Data from this any node in this network is aggregated into a central HamSCI database for space science research, specifically for analyzing phenomena like [**Traveling Ionospheric Disturbances (TIDs)**](https://glossary.ametsoc.org/wiki/traveling-ionospheric-disturbances/). Technically, it is a wide-spectrum receiving system that reports WSPR/FST4w and WWV/WWVH time standard signal Doppler-shift monitoring data in the Digital RF _DRF_ format.  This data is useful for studying the behavior of the ionosphere.  
@@ -11,8 +10,8 @@ HamSCI's research & collaboration is coordinated by Dr. Nathaniel Frissell [W2NA
 
 The software that processes the Digital RF _DRF_ format information received by the RX888 SDR is [WSPRDeamon](https://wsprdaemon.readthedocs.io/en/master/index.html) by Rob Robinette [AI6VN](https://www.qrz.com/db/AI6VN); which incorporates Phil Karn's [ka9q-radio](https://ka9q-radio.org). It is a Linux-based 'daemon' service designed to operate along with the hardware as a reliable 'appliance' for Amateur Radio operators and researchers. Its primary function is to decode WSPR and FST4W and reliably upload the data to public databases like [wsprnet.org](https://wsprnet.org) and [wspr.rocks](https://wspr.rocks). The project emphasizes high reliability, advanced features, and scientific data collection that goes beyond the capabilities of applications like WSJT-X.  
 
-### System Block Diagram - Note: The Turn Islands Systems TIS-TS1 Timesync is not included in this build
-<img width="1126" height="883" alt="image" src="https://github.com/user-attachments/assets/7aa3be83-437b-482b-9f17-ad3fe38da1c9" />
+### System Component Diagram - 
+<img width="1126" height="883" alt="image" src="https://github.com/user-attachments/assets/7aa3be83-437b-482b-9f17-ad3fe38da1c9" />  
 
 
 |  Item     |  Source     | Information  &  Support      |
