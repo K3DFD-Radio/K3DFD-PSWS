@@ -1,6 +1,5 @@
 # HamSCi HFRx Personal Space Weather Station  
 
----
 <img width="1043" height="960" alt="image" src="https://github.com/user-attachments/assets/8c96f2ba-9deb-4760-a0e7-90ccf70e9ea5" />  
 
 ### Project Overview  
