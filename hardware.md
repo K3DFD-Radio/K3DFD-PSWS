@@ -9,8 +9,7 @@ The engineering staff at the University of Scranton's HamSCI team has establishe
 ### Recommended Construction Style - 
 Note - There is no requirement to build your HFRx as described below, however it is helpful to HamSCI to have consistency in the build quality of the nodes that are participating in the HamSCI PSWS network. This assures reliability and the integrity of the data being provided to HamSCI for research and reporting. The engineering staff at the University of Scranton have developed this construction style with these qualities in mind.
 
-<img width="979" height="686" alt="image" src="https://github.com/user-attachments/assets/2253a8ee-3e16-4980-b37e-5e2b64f0890e" />
-
+<img width="1153" height="768" alt="PSWS Plexiglass" src="https://github.com/user-attachments/assets/da7244e0-6868-4dbc-8efb-c34c8fd7941f" />
 
 ### STEP 1: Preparing the aluminum component board & Plexiglas cover 
 Parts Required -
@@ -21,7 +20,7 @@ Parts Required -
 | *4 5X M4 hex brass spacer 50mm (or 40+10mm) female to female | [Amazon](https://a.co/) |
 | 4 QTY Rubber 'feet' | [Amazon](https://a.co/) |  
 If sourcing a 50mm hex brass spacer is difficult, use a combination of a 40mm + 10mm hex space to provide the sufficient headroom  
-<img width="1153" height="768" alt="PSWS Plexiglass" src="https://github.com/user-attachments/assets/da7244e0-6868-4dbc-8efb-c34c8fd7941f" />
+
 [ ]
 
 ### STEP 2 Printing the component mounts and hold-downs  
