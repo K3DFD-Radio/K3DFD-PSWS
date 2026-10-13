@@ -34,4 +34,4 @@ The software that processes the Digital RF _DRF_ format information received by 
 ### [STEP 3 Use and Admin - How to use and maintain your HFRx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
 ---
 ## More Information, Sources and Links 
-## [Links and Information Sources](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/sources_links.md)    
+### [Links and Information Sources](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/sources_links.md)    
