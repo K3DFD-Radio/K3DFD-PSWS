@@ -9,7 +9,7 @@ HamSCI's research & collaboration is coordinated by Dr. Nathaniel Frissell [W2NA
 
 The software that processes the Digital RF _DRF_ format information received by the RX888 SDR is [WSPRDeamon](https://wsprdaemon.readthedocs.io/en/master/index.html) by Rob Robinette [AI6VN](https://www.qrz.com/db/AI6VN); which incorporates Phil Karn's [ka9q-radio](https://ka9q-radio.org). It is a Linux-based 'daemon' service designed to operate along with the hardware as a reliable 'appliance' for Amateur Radio operators and researchers. Its primary function is to decode WSPR and FST4W and reliably upload the data to public databases like [wsprnet.org](https://wsprnet.org) and [wspr.rocks](https://wspr.rocks). The project emphasizes high reliability, advanced features, and scientific data collection that goes beyond the capabilities of applications like WSJT-X.  
 
-### System Diagram - 
+### HFRx PSWS System Diagram - 
 <img width="1126" height="883" alt="image" src="https://github.com/user-attachments/assets/7aa3be83-437b-482b-9f17-ad3fe38da1c9" />  
 
 ### The Components of an HFRx PSWS
