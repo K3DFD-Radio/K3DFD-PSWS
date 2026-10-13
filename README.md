@@ -3,7 +3,7 @@
 <img width="1043" height="960" alt="image" src="https://github.com/user-attachments/assets/8c96f2ba-9deb-4760-a0e7-90ccf70e9ea5" />  
 
 ### Project Overview  
-The goal of the HFRx PSWS project is to create a geographically distributed, multi-instrument network of special receivers for ground-based space environment measurements. Data from this any node in this network is aggregated into a central HamSCI database for space science research, specifically for analyzing phenomena like [**Traveling Ionospheric Disturbances (TIDs)**](https://glossary.ametsoc.org/wiki/traveling-ionospheric-disturbances/). Technically, it is a wide-spectrum receiving system that reports WSPR/FST4w and WWV/WWVH time standard signal Doppler-shift monitoring data in the Digital RF _DRF_ format.  This data is useful for studying the behavior of the ionosphere.  
+The goal of the HFRx PSWS project is to create a geographically distributed, multi-instrument network of special receivers (nodes) for ground-based space environment measurements. Data collected from nodes in the PSWS network are aggregated into a central HamSCI database for space science research, specifically for analyzing phenomena like [**Traveling Ionospheric Disturbances (TIDs)**](https://glossary.ametsoc.org/wiki/traveling-ionospheric-disturbances/). Technically, it is a wide-spectrum receiving system that reports WSPR/FST4w and WWV/WWVH time standard signal Doppler-shift in the Digital RF _DRF_ format.  This data is useful for studying the behavior of the ionosphere.  
 
 HamSCI's research & collaboration is coordinated by Dr. Nathaniel Frissell [W2NAF](https://www.qrz.com/db/W2NAF) at the University of Scranton [W3USR](https://www.qrz.com/db/W3USR) and supports a global network of "Citizen Science" monitors. Key partners include: TAPR [Tucson Amateur Packet Radio](https://tapr.org/) - NJIT [Center for Solar-Terrestrial Research](https://research.njit.edu/cstr/) - MIT - [Haystack Observatory](https://www.haystack.mit.edu/) - Case Western Reserve University [Case Western Reserve University](https://case.edu/) et.al.  
 
@@ -12,7 +12,7 @@ The software that processes the Digital RF _DRF_ format information received by 
 ### System Diagram - 
 <img width="1126" height="883" alt="image" src="https://github.com/user-attachments/assets/7aa3be83-437b-482b-9f17-ad3fe38da1c9" />  
 
-### Main Components
+### The Components of an HFRx PSWS
 |  Item     |  Source     | Information  &  Support      |
 |---------|-----------|-----------|
 | RX888 MkII SDR | [OpenSourceLabs](https://opensourcesdrlab.com/products/rx888-mkii-16bit-sdr-receiver-radio-ltc2208-adc-upgrade-rx888-1) | [Instructions](https://github.com/ik1xpv/ExtIO_sddc) [Linux Drivers](https://github.com/cozycactus/SoapyRX888) |
@@ -27,7 +27,7 @@ The software that processes the Digital RF _DRF_ format information received by 
 | Power Supply | [12VDC Linear Power Supply](https://www.jameco.com/z/DDU120100Z7972-Jameco-ReliaPro-AC-to-DC-Wall-Adapter-Transformer-12-Volt-1-Amp-12-Watt_100870.html) |  
 
 ---
-## Building the HFRx RX888 WSPRDaemon SDR Station
+## Building your HFRx PSWS consists of three phases: build the device, install and configuration of software and administration of the node as a valuable member of the HamSCI network.
 ### [STEP 1 Hardware - Build your HRFx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/hardware.md)  
 ### [STEP 2 Software - System Installation & Configuration](https://github.com/HamSCI/PSWS_Documentation/wiki/HF-wsprdaemon-Receiver)  
 ### [STEP 3 Use and Admin - How to use and maintain your HFRx PSWS](https://github.com/K3DFD-Radio/K3DFD-PSWS/blob/main/operation.md)  
