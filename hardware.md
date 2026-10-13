@@ -11,7 +11,7 @@ The engineering staff at the University of Scranton's HamSCI team has establishe
 ### Recommended Construction Style - 
 There is no requirement to build your HFRx as described below, however it is helpful to HamSCI to have consistency in the build quality of the nodes that are participating in the HamSCI PSWS network. This assures reliability and the integrity of the data being provided to HamSCI for research and reporting.  
 
-<img width="638" height="476" alt="image" src="https://github.com/user-attachments/assets/09158652-4179-42b9-b3e7-08c8a1aafb6c" />
+<img width="1153" height="768" alt="image" src="https://github.com/user-attachments/assets/09158652-4179-42b9-b3e7-08c8a1aafb6c" />
 
 
 ### STEP 1: Preparing the aluminum component board & Plexiglas cover 
