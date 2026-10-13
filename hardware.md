@@ -1,5 +1,4 @@
 ## Building an HFRx Personal Space Weather Station  
-### Note: This build of the HFRx PSWS does not include the optional TIS-TS1 TimeSync device.
 
 The construction style of an HFRx PSWS is up to the builder. However, the hardware and software must work together to insure that operational performance levels provides quality data to HamSCI.
 
@@ -7,11 +6,11 @@ The RX-888 Mk2 Software Defined Radio is the heart of the HFRx. The BeeLink SER 
 
 The engineering staff at the University of Scranton's HamSCI team has established a construction style where the components are mounted on an 8” x 10” X 1/8” Aluminum sheet with components held in place by 3D printed hold downs. All internal connections consists of high-quality SMA connectors, coax and USB cables. 12VDC is provided to the PSWS components and the active antenna by a Jameco 12V 500mA (or greater) linear power supply. This construction method is highly encouraged but not required.  
 
-### Component Connections (PC not shown):  
-<img width="1153" height="768" alt="Connection Diagram" src="https://github.com/user-attachments/assets/f65237ec-85c6-49d2-bf90-f165ec6ccf98" />  
+### Recommended Construction Style - 
+Note - There is no requirement to build your HFRx as described below, however it is helpful to HamSCI to have consistency in the build quality of the nodes that are participating in the HamSCI PSWS network. This assures reliability and the integrity of the data being provided to HamSCI for research and reporting. The engineering staff at the University of Scranton have developed this construction style with these qualities in mind.
 
-## System Block Diagram  
-<img width="1153" height="768" alt="Block Diagram" src="https://github.com/user-attachments/assets/197384ec-ade4-4c1e-8027-075bc1146ea6" />  
+<img width="979" height="686" alt="image" src="https://github.com/user-attachments/assets/2253a8ee-3e16-4980-b37e-5e2b64f0890e" />
+
 
 ### STEP 1: Preparing the aluminum component board & Plexiglas cover 
 Parts Required -
