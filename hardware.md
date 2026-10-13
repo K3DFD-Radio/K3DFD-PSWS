@@ -47,7 +47,8 @@ Parts Required -
 1/16" works fine as well but is not as sturdy.   
 <img width="1153" height="690" alt="image" src="https://github.com/user-attachments/assets/8ed33bf5-7327-4655-8c0a-be01fbc78bbc" />
 
-[ ] Step 1: Lay out and drill the mounting holes per this plan [HRFx PSWS .stl files](https://drive.google.com/drive/folders/1YeJeeC-uSJrnpS0maQg5exwwV9ubscKA?usp=sharing)  
+[ ] Step 1: Lay out and drill the mounting holes per this plan [Aluminum Base](https://drive.google.com/file/d/1yLXPfk_OUrR4w6WO7_rqisVCQrmd-52I/view?usp=sharing)  
+<img width="1050" height="809" alt="image" src="https://github.com/user-attachments/assets/17e8cbbb-925a-48c2-a16b-f07f3ecf7f47" />
 
 ### STEP 3: Modifying the RX888 MkII SDR  
 Parts Required -
