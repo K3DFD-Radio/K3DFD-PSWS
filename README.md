@@ -1,7 +1,8 @@
 ## HamSCi HFRx Personal Space Weather Station  
 
 ---
-<img width="916" height="609" alt="Main" src="https://github.com/user-attachments/assets/a0c17b80-8257-4d91-9b88-2e0aca3de799" />
+<img width="1043" height="960" alt="image" src="https://github.com/user-attachments/assets/8c96f2ba-9deb-4760-a0e7-90ccf70e9ea5" />
+
 
 ### Project Overview  
 The goal of the HFRx PSWS project is to create a geographically distributed, multi-instrument network of special receivers for ground-based space environment measurements. Data from this any node in this network is aggregated into a central HamSCI database for space science research, specifically for analyzing phenomena like [**Traveling Ionospheric Disturbances (TIDs)**](https://glossary.ametsoc.org/wiki/traveling-ionospheric-disturbances/). Technically, it is a wide-spectrum receiving system that reports WSPR/FST4w and WWV/WWVH time standard signal Doppler-shift monitoring data in the Digital RF _DRF_ format.  This data is useful for studying the behavior of the ionosphere.  
