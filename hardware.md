@@ -37,6 +37,17 @@ PLA works fine for these components. While you can use ABS, there are no heavy s
 <img width="1153" height="768" alt="image" src="https://github.com/user-attachments/assets/78566f5b-1802-4ac2-9dab-d14514dd2a59" />
 [ ] Step 1: Download the required .stl files from this repository: [HRFx PSWS .stl files](https://drive.google.com/drive/folders/1YeJeeC-uSJrnpS0maQg5exwwV9ubscKA?usp=sharing)  
 
+### STEP 3 Preparing the Aluminum base board and Plexiglas cover
+Parts Required -
+|  Item  |  Source  |
+|---------|----------|
+| 8" X 10" X 1/8" T6061 Aluminum Plate | [GDrive](https://drive.google.com/file/d/1ZR34g1ZgH7q--fjzyhHHjl_GkNwuVO9y/view?usp=sharing) |
+| 8" X 10" X 1/8" Plexiglas Sheet | [GDrive](https://drive.google.com/file/d/1IrFu1ZWpXSL4lWpJRmOSIEOuSLvdFMrz/view?usp=sharing) | 
+1/16" works fine as well but is not as sturdy.   
+<img width="1153" height="690" alt="image" src="https://github.com/user-attachments/assets/8ed33bf5-7327-4655-8c0a-be01fbc78bbc" />
+
+[ ] Step 1: Lay out and drill the mounting holes per this plan [HRFx PSWS .stl files](https://drive.google.com/drive/folders/1YeJeeC-uSJrnpS0maQg5exwwV9ubscKA?usp=sharing)  
+
 ### STEP 3: Modifying the RX888 MkII SDR  
 Parts Required -
 |  Item  |  Source  | Information  &  Support |
