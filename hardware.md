@@ -6,10 +6,10 @@ The RX-888 Mk2 Software Defined Radio is the heart of the HFRx. The BeeLink SER 
 
 The TS1 TimeSync unit generates a BPSK-modulated carrier signal that provides an extremely accurate time reference for SDR receivers used in TOF (Time of Flight) and TOA (Time of Arrival) measurements.  The TS1 is also designed to generate BPSK-modulated over-the-air signals, timestamped to indicate TOT (Time of Transmission).  
 
-The engineering staff at the University of Scranton's HamSCI team has established a construction style where the components are mounted on an 8” x 10” X 1/8” Aluminum sheet with components held in place by 3D printed hold downs. All internal connections consists of high-quality SMA connectors, coax and USB cables. 12VDC is provided to the PSWS components and the active antenna by a Jameco 12V 500mA (or greater) linear power supply. This construction method is highly encouraged but not required.  
+The engineering staff at the University of Scranton's HamSCI team has established a construction style where the components are mounted on an 8” x 10” X 1/8” Aluminum sheet with components held in place by 3D printed hold downs. All internal connections consist of high-quality SMA connectors, coax and USB cables. 12VDC is provided to the PSWS components and the active antenna by a Jameco 12V 500mA (or greater) linear power supply.  
 
 ### Recommended Construction Style - 
-Note - There is no requirement to build your HFRx as described below, however it is helpful to HamSCI to have consistency in the build quality of the nodes that are participating in the HamSCI PSWS network. This assures reliability and the integrity of the data being provided to HamSCI for research and reporting. The engineering staff at the University of Scranton have developed this construction style with these qualities in mind.
+There is no requirement to build your HFRx as described below, however it is helpful to HamSCI to have consistency in the build quality of the nodes that are participating in the HamSCI PSWS network. This assures reliability and the integrity of the data being provided to HamSCI for research and reporting.  
 
 <img width="1153" height="768" alt="PSWS Plexiglass" src="https://github.com/user-attachments/assets/da7244e0-6868-4dbc-8efb-c34c8fd7941f" />
 
