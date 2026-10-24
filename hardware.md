@@ -77,7 +77,7 @@ Parts Required -
 
 2. Modifications to the outside mounting configuration
 The antenna's physical design is lacking in sufficient protection from rain, snow or other environmental challenges. I have elected to incorporate the entire unit into a sealed ABS utility box, mounted on a 4X4 pressure-treated post. The ground rod is 1/2" common copper pipe driven into the soil to 4'. Since the Bias-T option is deselected via J2 and J3, 12VDC is provided to the lower F connector via a simple adapter to the DC source. Both the RG6 and the 12ga DC wiring are 50' long and have nominal RF loss or voltage drop.  
-<img width="1153" height="668" alt="image" src="https://github.com/user-attachments/assets/2129ecef-f7f8-46fc-a1df-60e4f9b03f78" />
+<img width="1153" height="640" alt="image" src="https://github.com/user-attachments/assets/2129ecef-f7f8-46fc-a1df-60e4f9b03f78" />
 
 ### Configure the Leo Bodnard LBE-1420 GPS clock output
 
