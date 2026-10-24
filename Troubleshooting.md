@@ -3,6 +3,13 @@
 ### This is NOT easy stuff! It will be rough-going at times to get things set up and running consistently. Here are some troubleshooting things to try:
 
 ## System can't find the RX-888
+###Common causes with an RX888:
+
+- RX888 not detected. It’s unplugged, on a USB 2 port, or on a weak hub. It needs a USB 3 port, the blue one.
+- Firmware file missing. radiod loads firmware onto the RX888 at startup and stops if it can’t find the file.
+- Config error in /etc/radio/radiod@rx888-wsprdaemon.conf, often in the external clock (GPSDO) settings.
+
+- Often the reason is simply that the PC and the RX-888 have stopped talking to each other via USB. This is a know issue with the RX-888 that it occasionally does this. Best fix is to pull the USB cord, wait a minute and plug it back into ANOTHER USB-3 (blue) port. That usually fixes that problem. If it happens again, pull it, wait 60 secs and plug it back into the original USB-3 (blue) port. Dumb but so what as long as it works!
 
 ## ka9q-web won't load / radiod keeps restarting
 
