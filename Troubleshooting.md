@@ -3,7 +3,7 @@
 ### This is NOT easy stuff! It will be rough-going at times to get things set up and running consistently. Here are some troubleshooting things to try:
 
 ## System can't find the RX-888
-###Common causes with an RX888:
+### Common causes with an RX888:
 
 - RX888 not detected. It’s unplugged, on a USB 2 port, or on a weak hub. It needs a USB 3 port, the blue one.
 - Firmware file missing. radiod loads firmware onto the RX888 at startup and stops if it can’t find the file.
